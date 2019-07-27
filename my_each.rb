@@ -7,4 +7,6 @@ end
 array
 end
 
-my_each
+my_each do |item|
+  
+end
